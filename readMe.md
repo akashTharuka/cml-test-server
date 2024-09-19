@@ -1,4 +1,4 @@
-# Backend Documentation
+# CML Programming Assignment - Backend Documentation
 
 ## Introduction
 This document provides a comprehensive guide to setting up, running, and maintaining the backend of the 'cml programming assignment' project. The backend is build using Java, Spring Boot, and  Maven.
