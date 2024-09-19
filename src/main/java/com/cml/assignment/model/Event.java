@@ -15,7 +15,6 @@ import org.springframework.stereotype.Component;
 @AllArgsConstructor
 public class Event {
     @Id
-    @UuidGenerator
     private String eventId;
     private String transId;
     private String transTms;
