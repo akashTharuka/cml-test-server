@@ -33,6 +33,10 @@ For local development, you can set up the PostgreSQL database using pgAdmin4 or 
 To run the application locally:
 ```mvn spring-boot:run```
 
+### Using Docker
+To run the application using Docker:
+```docker-compose up```
+
 ## Configuration
 The application uses environment variable for configuration. These can be set in the application.properties file or passed as environment variables.
 
